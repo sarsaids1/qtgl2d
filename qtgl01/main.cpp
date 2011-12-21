@@ -3,6 +3,7 @@
 #include "mainwindow.h"
 #include "gameControlWidget.h"
 #include "testtilemap.h"
+#include "testplayer.h"
 #include <gtest/gtest.h>
 
 using namespace std;
